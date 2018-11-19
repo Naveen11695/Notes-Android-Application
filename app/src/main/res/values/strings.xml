@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">One Notes</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="developers_title">Developed By</string>
+    <string name="developers_name">Agnos Developer</string>
+</resources>
