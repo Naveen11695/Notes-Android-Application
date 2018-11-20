@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Notes-Android-Application
 
-You can use the [editor on GitHub](https://github.com/Naveen11695/Notes-Android-Application/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project: Notes Application Works Cloud Storage Provided by Firebase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Introduction:</h2>
+* Read more about Cloud Storage for Firebase
+Getting Started
+* Add Firebase to your Android Project. The package name you'll use is package naveen.agnosbeta.notepad.
+* Run the Android application on your Android device or emulator. 
+* Upload Any type of files using this app.
+* Same data can be shared by number of users at the same time in synchronised manner. 
+* Also provide other features like upload images or videos via camera.
+* User can also download the files and delete the uploaded files from the cloud directly using the same application on android.
 
-### Markdown
+<hr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>ScreenShorts:</h2>
 
-```markdown
-Syntax highlighted code block
+<img src="https://image.ibb.co/bTcTAL/splash.png" width="100">
 
-# Header 1
-## Header 2
-### Header 3
+<b>App-Icon</b>
 
-- Bulleted
-- List
+<hr>
 
-1. Numbered
-2. List
+<img src="https://preview.ibb.co/jJ1c4f/main-screen.png" width="400">
 
-**Bold** and _Italic_ and `Code` text
+<b>Main-Screen</b>
 
-[Link](url) and ![Image](src)
-```
+<hr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2>Support:</h2>
 
-### Jekyll Themes
+https://firebase.google.com/support/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Naveen11695/Notes-Android-Application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h2>License:</h2>
 
-### Support or Contact
+Copyright 2018 Google, Inc.
+Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
