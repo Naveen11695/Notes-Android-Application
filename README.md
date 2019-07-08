@@ -13,7 +13,7 @@ Getting Started
 
 ## ScreenShorts:
 <p float="left">
-  <a href="https://imgur.com/Mw28Pwg.jpg"><img src="https://imgur.com/Mw28Pwg.jpg" width="50"></a>
+  <a href="https://imgur.com/m9IJHsf.jpg"><img src="https://imgur.com/m9IJHsf.jpg" width="50"></a>
 <p><b>Appicon</b></p>
   
 <a href="https://imgur.com/avneo8d.jpg"><img src="https://imgur.com/avneo8d.jpg" width="250"></a>
