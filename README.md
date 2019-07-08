@@ -11,6 +11,17 @@ Getting Started
 * Also provide other features like upload images or videos via camera.
 * User can also download the files and delete the uploaded files from the cloud directly using the same application on android.
 
+## ScreenShorts:
+<p float="left">
+  <a href="https://imgur.com/Mw28Pwg.jpg"><img src="https://imgur.com/Mw28Pwg.jpg" width="50"></a>
+<p><b>Appicon</b></p>
+  
+<a href="https://imgur.com/avneo8d.jpg"><img src="https://imgur.com/avneo8d.jpg" width="250"></a>
+<a href="https://imgur.com/zVwSf0N.jpg"><img src="https://imgur.com/zVwSf0N.jpg" width="250"></a>
+<a href="https://imgur.com/KcTMgSy.jpg"><img src="https://imgur.com/KcTMgSy.jpg" width="250"></a>
+<a href="https://imgur.com/s0BH3S0.jpg"><img src="https://imgur.com/s0BH3S0.jpg" width="250"></a>
+</p>
+
 Support:
 
 https://firebase.google.com/support/
