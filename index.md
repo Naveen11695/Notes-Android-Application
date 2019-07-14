@@ -1,8 +1,7 @@
 # Notes-Android-Application
 
 Project: Notes Application Works Cloud Storage Provided by Firebase
-
-<h2>Introduction:</h2>
+Introduction
 * Read more about Cloud Storage for Firebase
 Getting Started
 * Add Firebase to your Android Project. The package name you'll use is package naveen.agnosbeta.notepad.
@@ -12,27 +11,22 @@ Getting Started
 * Also provide other features like upload images or videos via camera.
 * User can also download the files and delete the uploaded files from the cloud directly using the same application on android.
 
-<hr>
+## ScreenShorts:
+<p float="left">
+  <a href="https://imgur.com/m9IJHsf.jpg"><img src="https://imgur.com/m9IJHsf.jpg" width="50"></a>
+<p><b>Appicon</b></p>
+  
+<a href="https://imgur.com/avneo8d.jpg"><img src="https://imgur.com/avneo8d.jpg" width="250"></a>
+<a href="https://imgur.com/zVwSf0N.jpg"><img src="https://imgur.com/zVwSf0N.jpg" width="250"></a>
+<a href="https://imgur.com/KcTMgSy.jpg"><img src="https://imgur.com/KcTMgSy.jpg" width="250"></a>
+<a href="https://imgur.com/s0BH3S0.jpg"><img src="https://imgur.com/s0BH3S0.jpg" width="250"></a>
+</p>
 
-<h2>ScreenShorts:</h2>
-
-<img src="https://image.ibb.co/bTcTAL/splash.png" width="100">
-
-<b>App-Icon</b>
-
-<hr>
-
-<img src="https://preview.ibb.co/jJ1c4f/main-screen.png" width="400">
-
-<b>Main-Screen</b>
-
-<hr>
-
-<h2>Support:</h2>
+Support:
 
 https://firebase.google.com/support/
 
-<h2>License:</h2>
+License:
 
 Copyright 2018 Google, Inc.
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
