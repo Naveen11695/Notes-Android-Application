@@ -16,10 +16,10 @@ Getting Started
   <a href="https://imgur.com/m9IJHsf.jpg"><img src="https://imgur.com/m9IJHsf.jpg" width="50"></a>
 <p><b>Appicon</b></p>
   
-<a href="https://imgur.com/avneo8d.jpg"><img src="https://imgur.com/avneo8d.jpg" width="250"></a>
-<a href="https://imgur.com/zVwSf0N.jpg"><img src="https://imgur.com/zVwSf0N.jpg" width="250"></a>
-<a href="https://imgur.com/KcTMgSy.jpg"><img src="https://imgur.com/KcTMgSy.jpg" width="250"></a>
-<a href="https://imgur.com/s0BH3S0.jpg"><img src="https://imgur.com/s0BH3S0.jpg" width="250"></a>
+<a href="https://imgur.com/avneo8d.jpg"><img src="https://imgur.com/avneo8d.jpg" width="100"></a>
+<a href="https://imgur.com/zVwSf0N.jpg"><img src="https://imgur.com/zVwSf0N.jpg" width="100"></a>
+<a href="https://imgur.com/KcTMgSy.jpg"><img src="https://imgur.com/KcTMgSy.jpg" width="100"></a>
+<a href="https://imgur.com/s0BH3S0.jpg"><img src="https://imgur.com/s0BH3S0.jpg" width="100"></a>
 </p>
 
 Support:
