@@ -11,7 +11,7 @@ Getting Started
 * Also provide other features like upload images or videos via camera.
 * User can also download the files and delete the uploaded files from the cloud directly using the same application on android.
 
-## ScreenShorts:
+## ScreenShots:
 <p float="left">
   <a href="https://imgur.com/m9IJHsf.jpg"><img src="https://imgur.com/m9IJHsf.jpg" width="50"></a>
 <p><b>Appicon</b></p>
